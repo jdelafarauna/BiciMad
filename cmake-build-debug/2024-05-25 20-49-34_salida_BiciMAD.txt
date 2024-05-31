@@ -1,0 +1,1416 @@
+CONFIGURACION:
+Usuarios: 400
+Numero de Estaciones: 12
+Huecos por Estacion: 20
+Tiempo Minimo de Espera: 1
+Tiempo Maximo de Espera: 4
+Tiempo Minimo Montando: 1
+Tiempo Maximo Montando: 5
+Numero Minimo de Paseos: 1
+Numero Maximo de Paseos: 4
+
+El ciclista 0 quiere tomar en 1.
+El ciclista 0 toma una bici en 1.
+El ciclista 0 esta montando...
+El ciclista 1 quiere tomar en 1.
+El ciclista 1 toma una bici en 1.
+El ciclista 1 esta montando...
+El ciclista 2 quiere tomar en 1.
+El ciclista 2 toma una bici en 1.
+El ciclista 2 esta montando...
+El ciclista 0 quiere dejar una bici en 10.
+El ciclista 0 quiere dejar una bici en 10.
+El ciclista 0 deja una bici en 10.
+El ciclista 3 quiere tomar en 1.
+El ciclista 3 toma una bici en 1.
+El ciclista 3 esta montando...
+El ciclista 1 quiere dejar una bici en 10.
+El ciclista 1 quiere dejar una bici en 10.
+El ciclista 1 deja una bici en 10.
+El ciclista 4 quiere tomar en 1.
+El ciclista 4 toma una bici en 1.
+El ciclista 4 esta montando...
+El ciclista 2 quiere dejar una bici en 10.
+El ciclista 2 quiere dejar una bici en 10.
+El ciclista 2 deja una bici en 10.
+El ciclista 5 quiere tomar en 1.
+El ciclista 5 toma una bici en 1.
+El ciclista 5 esta montando...
+El ciclista 3 quiere dejar una bici en 10.
+El ciclista 3 quiere dejar una bici en 10.
+El ciclista 3 deja una bici en 10.
+El ciclista 6 quiere tomar en 1.
+El ciclista 6 toma una bici en 1.
+El ciclista 6 esta montando...
+El ciclista 4 quiere dejar una bici en 10.
+El ciclista 4 quiere dejar una bici en 10.
+El ciclista 4 deja una bici en 10.
+El ciclista 7 quiere tomar en 1.
+El ciclista 7 toma una bici en 1.
+El ciclista 7 esta montando...
+El ciclista 8 quiere tomar en 1.
+El ciclista 8 toma una bici en 1.
+El ciclista 8 esta montando...
+El ciclista 5 quiere dejar una bici en 10.
+El ciclista 5 quiere dejar una bici en 10.
+El ciclista 0 quiere tomar en 8.
+El ciclista 0 toma una bici en 8.
+El ciclista 0 esta montando...
+El ciclista 9 quiere tomar en 1.
+El ciclista 9 toma una bici en 1.
+El ciclista 9 esta montando...
+El ciclista 6 quiere dejar una bici en 10.
+El ciclista 6 quiere dejar una bici en 10.
+El ciclista 1 quiere tomar en 8.
+El ciclista 1 toma una bici en 8.
+El ciclista 1 esta montando...
+El ciclista 10 quiere tomar en 1.
+El ciclista 10 toma una bici en 1.
+El ciclista 10 esta montando...
+El ciclista 7 quiere dejar una bici en 10.
+El ciclista 7 quiere dejar una bici en 10.
+El ciclista 11 quiere tomar en 1.
+El ciclista 11 toma una bici en 1.
+El ciclista 11 esta montando...
+El ciclista 8 quiere dejar una bici en 10.
+El ciclista 8 quiere dejar una bici en 10.
+El ciclista 12 quiere tomar en 1.
+El ciclista 12 toma una bici en 1.
+El ciclista 12 esta montando...
+El ciclista 3 quiere tomar en 8.
+El ciclista 3 toma una bici en 8.
+El ciclista 3 esta montando...
+El ciclista 9 quiere dejar una bici en 10.
+El ciclista 9 quiere dejar una bici en 10.
+El ciclista 13 quiere tomar en 1.
+El ciclista 13 toma una bici en 1.
+El ciclista 13 esta montando...
+El ciclista 10 quiere dejar una bici en 10.
+El ciclista 10 quiere dejar una bici en 10.
+El ciclista 4 quiere tomar en 8.
+El ciclista 4 toma una bici en 8.
+El ciclista 4 esta montando...
+El ciclista 14 quiere tomar en 1.
+El ciclista 14 toma una bici en 1.
+El ciclista 14 esta montando...
+El ciclista 11 quiere dejar una bici en 10.
+El ciclista 11 quiere dejar una bici en 10.
+El ciclista 15 quiere tomar en 1.
+El ciclista 15 espera a poder tomar una bici en 1.
+El ciclista 12 quiere dejar una bici en 10.
+El ciclista 12 quiere dejar una bici en 10.
+El ciclista 0 quiere dejar una bici en 11.
+El ciclista 0 quiere dejar una bici en 11.
+El ciclista 0 deja una bici en 11.
+El ciclista 16 quiere tomar en 1.
+El ciclista 16 espera a poder tomar una bici en 1.
+El ciclista 13 quiere dejar una bici en 10.
+El ciclista 13 quiere dejar una bici en 10.
+El ciclista 1 quiere dejar una bici en 11.
+El ciclista 1 quiere dejar una bici en 11.
+El ciclista 1 deja una bici en 11.
+El ciclista 17 quiere tomar en 1.
+El ciclista 17 espera a poder tomar una bici en 1.
+El ciclista 14 quiere dejar una bici en 10.
+El ciclista 14 quiere dejar una bici en 10.
+El ciclista 18 quiere tomar en 1.
+El ciclista 18 espera a poder tomar una bici en 1.
+El ciclista 3 quiere dejar una bici en 11.
+El ciclista 3 quiere dejar una bici en 11.
+El ciclista 3 deja una bici en 11.
+El ciclista 19 quiere tomar en 1.
+El ciclista 19 espera a poder tomar una bici en 1.
+El ciclista 4 quiere dejar una bici en 11.
+El ciclista 4 quiere dejar una bici en 11.
+El ciclista 4 deja una bici en 11.
+El ciclista 20 quiere tomar en 1.
+El ciclista 20 espera a poder tomar una bici en 1.
+El ciclista 21 quiere tomar en 1.
+El ciclista 21 espera a poder tomar una bici en 1.
+El ciclista 22 quiere tomar en 1.
+El ciclista 22 espera a poder tomar una bici en 1.
+El ciclista 23 quiere tomar en 1.
+El ciclista 23 espera a poder tomar una bici en 1.
+El ciclista 24 quiere tomar en 1.
+El ciclista 24 espera a poder tomar una bici en 1.
+El ciclista 25 quiere tomar en 1.
+El ciclista 25 espera a poder tomar una bici en 1.
+El ciclista 26 quiere tomar en 1.
+El ciclista 26 espera a poder tomar una bici en 1.
+El ciclista 1 quiere tomar en 10.
+El ciclista 1 toma una bici en 10.
+El ciclista 1 esta montando...
+El ciclista 5 deja una bici en 10.
+El ciclista 27 quiere tomar en 1.
+El ciclista 27 espera a poder tomar una bici en 1.
+El ciclista 28 quiere tomar en 1.
+El ciclista 28 espera a poder tomar una bici en 1.
+El ciclista 29 quiere tomar en 1.
+El ciclista 29 espera a poder tomar una bici en 1.
+El ciclista 1 quiere dejar una bici en 11.
+El ciclista 1 quiere dejar una bici en 11.
+El ciclista 1 deja una bici en 11.
+El ciclista 4 quiere tomar en 10.
+El ciclista 4 toma una bici en 10.
+El ciclista 4 esta montando...
+El ciclista 6 deja una bici en 10.
+El ciclista 30 quiere tomar en 1.
+El ciclista 30 espera a poder tomar una bici en 1.
+El ciclista 31 quiere tomar en 1.
+El ciclista 31 espera a poder tomar una bici en 1.
+El ciclista 32 quiere tomar en 1.
+El ciclista 32 espera a poder tomar una bici en 1.
+El ciclista 5 quiere tomar en 8.
+El ciclista 5 toma una bici en 8.
+El ciclista 5 esta montando...
+El ciclista 4 quiere dejar una bici en 11.
+El ciclista 4 quiere dejar una bici en 11.
+El ciclista 33 quiere tomar en 1.
+El ciclista 33 espera a poder tomar una bici en 1.
+El ciclista 34 quiere tomar en 1.
+El ciclista 34 espera a poder tomar una bici en 1.
+El ciclista 35 quiere tomar en 1.
+El ciclista 35 espera a poder tomar una bici en 1.
+El ciclista 36 quiere tomar en 1.
+El ciclista 36 espera a poder tomar una bici en 1.
+El ciclista 6 quiere tomar en 8.
+El ciclista 6 toma una bici en 8.
+El ciclista 6 esta montando...
+El ciclista 37 quiere tomar en 1.
+El ciclista 37 espera a poder tomar una bici en 1.
+El ciclista 38 quiere tomar en 1.
+El ciclista 38 espera a poder tomar una bici en 1.
+El ciclista 39 quiere tomar en 1.
+El ciclista 39 espera a poder tomar una bici en 1.
+El ciclista 1 quiere tomar en 9.
+El ciclista 1 toma una bici en 9.
+El ciclista 1 esta montando...
+El ciclista 5 quiere dejar una bici en 11.
+El ciclista 5 quiere dejar una bici en 11.
+El ciclista 40 quiere tomar en 1.
+El ciclista 40 espera a poder tomar una bici en 1.
+El ciclista 41 quiere tomar en 1.
+El ciclista 41 espera a poder tomar una bici en 1.
+El ciclista 42 quiere tomar en 1.
+El ciclista 42 espera a poder tomar una bici en 1.
+El ciclista 6 quiere dejar una bici en 11.
+El ciclista 6 quiere dejar una bici en 11.
+El ciclista 43 quiere tomar en 1.
+El ciclista 43 espera a poder tomar una bici en 1.
+El ciclista 44 quiere tomar en 1.
+El ciclista 44 espera a poder tomar una bici en 1.
+El ciclista 45 quiere tomar en 1.
+El ciclista 45 espera a poder tomar una bici en 1.
+El ciclista 1 quiere dejar una bici en 1.
+El ciclista 1 quiere dejar una bici en 1.
+El ciclista 1 deja una bici en 1.
+El ciclista 15 toma una bici en 1.
+El ciclista 15 esta montando...
+El ciclista 46 quiere tomar en 1.
+El ciclista 46 espera a poder tomar una bici en 1.
+El ciclista 47 quiere tomar en 1.
+El ciclista 47 espera a poder tomar una bici en 1.
+El ciclista 48 quiere tomar en 1.
+El ciclista 48 espera a poder tomar una bici en 1.
+El ciclista 15 quiere dejar una bici en 10.
+El ciclista 15 quiere dejar una bici en 10.
+El ciclista 49 quiere tomar en 1.
+El ciclista 49 espera a poder tomar una bici en 1.
+El ciclista 50 quiere tomar en 1.
+El ciclista 50 espera a poder tomar una bici en 1.
+El ciclista 51 quiere tomar en 1.
+El ciclista 51 espera a poder tomar una bici en 1.
+El ciclista 52 quiere tomar en 1.
+El ciclista 52 espera a poder tomar una bici en 1.
+El ciclista 53 quiere tomar en 1.
+El ciclista 53 espera a poder tomar una bici en 1.
+El ciclista 54 quiere tomar en 1.
+El ciclista 54 espera a poder tomar una bici en 1.
+El ciclista 55 quiere tomar en 1.
+El ciclista 55 espera a poder tomar una bici en 1.
+El ciclista 56 quiere tomar en 1.
+El ciclista 56 espera a poder tomar una bici en 1.
+El ciclista 57 quiere tomar en 1.
+El ciclista 57 espera a poder tomar una bici en 1.
+El ciclista 58 quiere tomar en 1.
+El ciclista 58 espera a poder tomar una bici en 1.
+El ciclista 59 quiere tomar en 1.
+El ciclista 59 espera a poder tomar una bici en 1.
+El ciclista 60 quiere tomar en 1.
+El ciclista 60 espera a poder tomar una bici en 1.
+El ciclista 61 quiere tomar en 1.
+El ciclista 61 espera a poder tomar una bici en 1.
+El ciclista 62 quiere tomar en 1.
+El ciclista 62 espera a poder tomar una bici en 1.
+El ciclista 63 quiere tomar en 1.
+El ciclista 63 espera a poder tomar una bici en 1.
+El ciclista 64 quiere tomar en 1.
+El ciclista 64 espera a poder tomar una bici en 1.
+El ciclista 65 quiere tomar en 1.
+El ciclista 65 espera a poder tomar una bici en 1.
+El ciclista 66 quiere tomar en 1.
+El ciclista 66 espera a poder tomar una bici en 1.
+El ciclista 67 quiere tomar en 1.
+El ciclista 67 espera a poder tomar una bici en 1.
+El ciclista 68 quiere tomar en 1.
+El ciclista 68 espera a poder tomar una bici en 1.
+El ciclista 69 quiere tomar en 1.
+El ciclista 69 espera a poder tomar una bici en 1.
+El ciclista 70 quiere tomar en 1.
+El ciclista 70 espera a poder tomar una bici en 1.
+El ciclista 71 quiere tomar en 1.
+El ciclista 71 espera a poder tomar una bici en 1.
+El ciclista 72 quiere tomar en 1.
+El ciclista 72 espera a poder tomar una bici en 1.
+El ciclista 73 quiere tomar en 1.
+El ciclista 73 espera a poder tomar una bici en 1.
+El ciclista 74 quiere tomar en 1.
+El ciclista 74 espera a poder tomar una bici en 1.
+El ciclista 75 quiere tomar en 1.
+El ciclista 75 espera a poder tomar una bici en 1.
+El ciclista 76 quiere tomar en 1.
+El ciclista 76 espera a poder tomar una bici en 1.
+El ciclista 77 quiere tomar en 1.
+El ciclista 77 espera a poder tomar una bici en 1.
+El ciclista 78 quiere tomar en 1.
+El ciclista 78 espera a poder tomar una bici en 1.
+El ciclista 79 quiere tomar en 1.
+El ciclista 79 espera a poder tomar una bici en 1.
+El ciclista 80 quiere tomar en 1.
+El ciclista 80 espera a poder tomar una bici en 1.
+El ciclista 81 quiere tomar en 1.
+El ciclista 81 espera a poder tomar una bici en 1.
+El ciclista 82 quiere tomar en 1.
+El ciclista 82 espera a poder tomar una bici en 1.
+El ciclista 83 quiere tomar en 1.
+El ciclista 83 espera a poder tomar una bici en 1.
+El ciclista 84 quiere tomar en 1.
+El ciclista 84 espera a poder tomar una bici en 1.
+El ciclista 85 quiere tomar en 1.
+El ciclista 85 espera a poder tomar una bici en 1.
+El ciclista 86 quiere tomar en 1.
+El ciclista 86 espera a poder tomar una bici en 1.
+El ciclista 87 quiere tomar en 1.
+El ciclista 87 espera a poder tomar una bici en 1.
+El ciclista 88 quiere tomar en 1.
+El ciclista 88 espera a poder tomar una bici en 1.
+El ciclista 89 quiere tomar en 1.
+El ciclista 89 espera a poder tomar una bici en 1.
+El ciclista 90 quiere tomar en 1.
+El ciclista 90 espera a poder tomar una bici en 1.
+El ciclista 91 quiere tomar en 1.
+El ciclista 91 espera a poder tomar una bici en 1.
+El ciclista 92 quiere tomar en 1.
+El ciclista 92 espera a poder tomar una bici en 1.
+El ciclista 93 quiere tomar en 1.
+El ciclista 93 espera a poder tomar una bici en 1.
+El ciclista 94 quiere tomar en 1.
+El ciclista 94 espera a poder tomar una bici en 1.
+El ciclista 95 quiere tomar en 1.
+El ciclista 95 espera a poder tomar una bici en 1.
+El ciclista 96 quiere tomar en 1.
+El ciclista 96 espera a poder tomar una bici en 1.
+El ciclista 97 quiere tomar en 1.
+El ciclista 97 espera a poder tomar una bici en 1.
+El ciclista 98 quiere tomar en 1.
+El ciclista 98 espera a poder tomar una bici en 1.
+El ciclista 99 quiere tomar en 1.
+El ciclista 99 espera a poder tomar una bici en 1.
+El ciclista 100 quiere tomar en 1.
+El ciclista 100 espera a poder tomar una bici en 1.
+El ciclista 101 quiere tomar en 1.
+El ciclista 101 espera a poder tomar una bici en 1.
+El ciclista 102 quiere tomar en 1.
+El ciclista 102 espera a poder tomar una bici en 1.
+El ciclista 103 quiere tomar en 1.
+El ciclista 103 espera a poder tomar una bici en 1.
+El ciclista 104 quiere tomar en 1.
+El ciclista 104 espera a poder tomar una bici en 1.
+El ciclista 105 quiere tomar en 1.
+El ciclista 105 espera a poder tomar una bici en 1.
+El ciclista 106 quiere tomar en 1.
+El ciclista 106 espera a poder tomar una bici en 1.
+El ciclista 107 quiere tomar en 1.
+El ciclista 107 espera a poder tomar una bici en 1.
+El ciclista 108 quiere tomar en 1.
+El ciclista 108 espera a poder tomar una bici en 1.
+El ciclista 109 quiere tomar en 1.
+El ciclista 109 espera a poder tomar una bici en 1.
+El ciclista 110 quiere tomar en 1.
+El ciclista 110 espera a poder tomar una bici en 1.
+El ciclista 111 quiere tomar en 1.
+El ciclista 111 espera a poder tomar una bici en 1.
+El ciclista 112 quiere tomar en 1.
+El ciclista 112 espera a poder tomar una bici en 1.
+El ciclista 113 quiere tomar en 1.
+El ciclista 113 espera a poder tomar una bici en 1.
+El ciclista 114 quiere tomar en 1.
+El ciclista 114 espera a poder tomar una bici en 1.
+El ciclista 115 quiere tomar en 1.
+El ciclista 115 espera a poder tomar una bici en 1.
+El ciclista 116 quiere tomar en 1.
+El ciclista 116 espera a poder tomar una bici en 1.
+El ciclista 117 quiere tomar en 1.
+El ciclista 117 espera a poder tomar una bici en 1.
+El ciclista 118 quiere tomar en 1.
+El ciclista 118 espera a poder tomar una bici en 1.
+El ciclista 119 quiere tomar en 1.
+El ciclista 119 espera a poder tomar una bici en 1.
+El ciclista 120 quiere tomar en 1.
+El ciclista 120 espera a poder tomar una bici en 1.
+El ciclista 121 quiere tomar en 1.
+El ciclista 121 espera a poder tomar una bici en 1.
+El ciclista 122 quiere tomar en 1.
+El ciclista 122 espera a poder tomar una bici en 1.
+El ciclista 123 quiere tomar en 1.
+El ciclista 123 espera a poder tomar una bici en 1.
+El ciclista 124 quiere tomar en 1.
+El ciclista 124 espera a poder tomar una bici en 1.
+El ciclista 125 quiere tomar en 1.
+El ciclista 125 espera a poder tomar una bici en 1.
+El ciclista 126 quiere tomar en 1.
+El ciclista 126 espera a poder tomar una bici en 1.
+El ciclista 127 quiere tomar en 1.
+El ciclista 127 espera a poder tomar una bici en 1.
+El ciclista 128 quiere tomar en 1.
+El ciclista 128 espera a poder tomar una bici en 1.
+El ciclista 129 quiere tomar en 1.
+El ciclista 129 espera a poder tomar una bici en 1.
+El ciclista 130 quiere tomar en 1.
+El ciclista 130 espera a poder tomar una bici en 1.
+El ciclista 131 quiere tomar en 1.
+El ciclista 131 espera a poder tomar una bici en 1.
+El ciclista 132 quiere tomar en 1.
+El ciclista 132 espera a poder tomar una bici en 1.
+El ciclista 133 quiere tomar en 1.
+El ciclista 133 espera a poder tomar una bici en 1.
+El ciclista 134 quiere tomar en 1.
+El ciclista 134 espera a poder tomar una bici en 1.
+El ciclista 135 quiere tomar en 1.
+El ciclista 135 espera a poder tomar una bici en 1.
+El ciclista 136 quiere tomar en 1.
+El ciclista 136 espera a poder tomar una bici en 1.
+El ciclista 137 quiere tomar en 1.
+El ciclista 137 espera a poder tomar una bici en 1.
+El ciclista 138 quiere tomar en 1.
+El ciclista 138 espera a poder tomar una bici en 1.
+El ciclista 139 quiere tomar en 1.
+El ciclista 139 espera a poder tomar una bici en 1.
+El ciclista 140 quiere tomar en 1.
+El ciclista 140 espera a poder tomar una bici en 1.
+El ciclista 141 quiere tomar en 1.
+El ciclista 141 espera a poder tomar una bici en 1.
+El ciclista 142 quiere tomar en 1.
+El ciclista 142 espera a poder tomar una bici en 1.
+El ciclista 143 quiere tomar en 1.
+El ciclista 143 espera a poder tomar una bici en 1.
+El ciclista 144 quiere tomar en 1.
+El ciclista 144 espera a poder tomar una bici en 1.
+El ciclista 145 quiere tomar en 1.
+El ciclista 145 espera a poder tomar una bici en 1.
+El ciclista 146 quiere tomar en 1.
+El ciclista 146 espera a poder tomar una bici en 1.
+El ciclista 147 quiere tomar en 1.
+El ciclista 147 espera a poder tomar una bici en 1.
+El ciclista 148 quiere tomar en 1.
+El ciclista 148 espera a poder tomar una bici en 1.
+El ciclista 149 quiere tomar en 1.
+El ciclista 149 espera a poder tomar una bici en 1.
+El ciclista 150 quiere tomar en 1.
+El ciclista 150 espera a poder tomar una bici en 1.
+El ciclista 151 quiere tomar en 1.
+El ciclista 151 espera a poder tomar una bici en 1.
+El ciclista 152 quiere tomar en 1.
+El ciclista 152 espera a poder tomar una bici en 1.
+El ciclista 153 quiere tomar en 1.
+El ciclista 153 espera a poder tomar una bici en 1.
+El ciclista 154 quiere tomar en 1.
+El ciclista 154 espera a poder tomar una bici en 1.
+El ciclista 155 quiere tomar en 1.
+El ciclista 155 espera a poder tomar una bici en 1.
+El ciclista 156 quiere tomar en 1.
+El ciclista 156 espera a poder tomar una bici en 1.
+El ciclista 157 quiere tomar en 1.
+El ciclista 157 espera a poder tomar una bici en 1.
+El ciclista 158 quiere tomar en 1.
+El ciclista 158 espera a poder tomar una bici en 1.
+El ciclista 159 quiere tomar en 1.
+El ciclista 159 espera a poder tomar una bici en 1.
+El ciclista 160 quiere tomar en 1.
+El ciclista 160 espera a poder tomar una bici en 1.
+El ciclista 161 quiere tomar en 1.
+El ciclista 161 espera a poder tomar una bici en 1.
+El ciclista 162 quiere tomar en 1.
+El ciclista 162 espera a poder tomar una bici en 1.
+El ciclista 163 quiere tomar en 1.
+El ciclista 163 espera a poder tomar una bici en 1.
+El ciclista 164 quiere tomar en 1.
+El ciclista 164 espera a poder tomar una bici en 1.
+El ciclista 165 quiere tomar en 1.
+El ciclista 165 espera a poder tomar una bici en 1.
+El ciclista 166 quiere tomar en 1.
+El ciclista 166 espera a poder tomar una bici en 1.
+El ciclista 167 quiere tomar en 1.
+El ciclista 167 espera a poder tomar una bici en 1.
+El ciclista 168 quiere tomar en 1.
+El ciclista 168 espera a poder tomar una bici en 1.
+El ciclista 169 quiere tomar en 1.
+El ciclista 169 espera a poder tomar una bici en 1.
+El ciclista 170 quiere tomar en 1.
+El ciclista 170 espera a poder tomar una bici en 1.
+El ciclista 171 quiere tomar en 1.
+El ciclista 171 espera a poder tomar una bici en 1.
+El ciclista 172 quiere tomar en 1.
+El ciclista 172 espera a poder tomar una bici en 1.
+El ciclista 173 quiere tomar en 1.
+El ciclista 173 espera a poder tomar una bici en 1.
+El ciclista 174 quiere tomar en 1.
+El ciclista 174 espera a poder tomar una bici en 1.
+El ciclista 175 quiere tomar en 1.
+El ciclista 175 espera a poder tomar una bici en 1.
+El ciclista 176 quiere tomar en 1.
+El ciclista 176 espera a poder tomar una bici en 1.
+El ciclista 177 quiere tomar en 1.
+El ciclista 177 espera a poder tomar una bici en 1.
+El ciclista 178 quiere tomar en 1.
+El ciclista 178 espera a poder tomar una bici en 1.
+El ciclista 179 quiere tomar en 1.
+El ciclista 179 espera a poder tomar una bici en 1.
+El ciclista 180 quiere tomar en 1.
+El ciclista 180 espera a poder tomar una bici en 1.
+El ciclista 181 quiere tomar en 1.
+El ciclista 181 espera a poder tomar una bici en 1.
+El ciclista 182 quiere tomar en 1.
+El ciclista 182 espera a poder tomar una bici en 1.
+El ciclista 183 quiere tomar en 1.
+El ciclista 183 espera a poder tomar una bici en 1.
+El ciclista 184 quiere tomar en 1.
+El ciclista 184 espera a poder tomar una bici en 1.
+El ciclista 185 quiere tomar en 1.
+El ciclista 185 espera a poder tomar una bici en 1.
+El ciclista 186 quiere tomar en 1.
+El ciclista 186 espera a poder tomar una bici en 1.
+El ciclista 187 quiere tomar en 1.
+El ciclista 187 espera a poder tomar una bici en 1.
+El ciclista 188 quiere tomar en 1.
+El ciclista 188 espera a poder tomar una bici en 1.
+El ciclista 189 quiere tomar en 1.
+El ciclista 189 espera a poder tomar una bici en 1.
+El ciclista 190 quiere tomar en 1.
+El ciclista 190 espera a poder tomar una bici en 1.
+El ciclista 191 quiere tomar en 1.
+El ciclista 191 espera a poder tomar una bici en 1.
+El ciclista 192 quiere tomar en 1.
+El ciclista 192 espera a poder tomar una bici en 1.
+El ciclista 193 quiere tomar en 1.
+El ciclista 193 espera a poder tomar una bici en 1.
+El ciclista 194 quiere tomar en 1.
+El ciclista 194 espera a poder tomar una bici en 1.
+El ciclista 195 quiere tomar en 1.
+El ciclista 195 espera a poder tomar una bici en 1.
+El ciclista 196 quiere tomar en 1.
+El ciclista 196 espera a poder tomar una bici en 1.
+El ciclista 197 quiere tomar en 1.
+El ciclista 197 espera a poder tomar una bici en 1.
+El ciclista 198 quiere tomar en 1.
+El ciclista 198 espera a poder tomar una bici en 1.
+El ciclista 199 quiere tomar en 1.
+El ciclista 199 espera a poder tomar una bici en 1.
+El ciclista 200 quiere tomar en 1.
+El ciclista 200 espera a poder tomar una bici en 1.
+El ciclista 201 quiere tomar en 1.
+El ciclista 201 espera a poder tomar una bici en 1.
+El ciclista 202 quiere tomar en 1.
+El ciclista 202 espera a poder tomar una bici en 1.
+El ciclista 203 quiere tomar en 1.
+El ciclista 203 espera a poder tomar una bici en 1.
+El ciclista 204 quiere tomar en 1.
+El ciclista 204 espera a poder tomar una bici en 1.
+El ciclista 205 quiere tomar en 1.
+El ciclista 205 espera a poder tomar una bici en 1.
+El ciclista 206 quiere tomar en 1.
+El ciclista 206 espera a poder tomar una bici en 1.
+El ciclista 207 quiere tomar en 1.
+El ciclista 207 espera a poder tomar una bici en 1.
+El ciclista 208 quiere tomar en 1.
+El ciclista 208 espera a poder tomar una bici en 1.
+El ciclista 209 quiere tomar en 1.
+El ciclista 209 espera a poder tomar una bici en 1.
+El ciclista 210 quiere tomar en 1.
+El ciclista 210 espera a poder tomar una bici en 1.
+El ciclista 211 quiere tomar en 1.
+El ciclista 211 espera a poder tomar una bici en 1.
+El ciclista 212 quiere tomar en 1.
+El ciclista 212 espera a poder tomar una bici en 1.
+El ciclista 213 quiere tomar en 1.
+El ciclista 213 espera a poder tomar una bici en 1.
+El ciclista 214 quiere tomar en 1.
+El ciclista 214 espera a poder tomar una bici en 1.
+El ciclista 215 quiere tomar en 1.
+El ciclista 215 espera a poder tomar una bici en 1.
+El ciclista 216 quiere tomar en 1.
+El ciclista 216 espera a poder tomar una bici en 1.
+El ciclista 217 quiere tomar en 1.
+El ciclista 217 espera a poder tomar una bici en 1.
+El ciclista 218 quiere tomar en 1.
+El ciclista 218 espera a poder tomar una bici en 1.
+El ciclista 219 quiere tomar en 1.
+El ciclista 219 espera a poder tomar una bici en 1.
+El ciclista 220 quiere tomar en 1.
+El ciclista 220 espera a poder tomar una bici en 1.
+El ciclista 221 quiere tomar en 1.
+El ciclista 221 espera a poder tomar una bici en 1.
+El ciclista 222 quiere tomar en 1.
+El ciclista 222 espera a poder tomar una bici en 1.
+El ciclista 223 quiere tomar en 1.
+El ciclista 223 espera a poder tomar una bici en 1.
+El ciclista 224 quiere tomar en 1.
+El ciclista 224 espera a poder tomar una bici en 1.
+El ciclista 225 quiere tomar en 1.
+El ciclista 225 espera a poder tomar una bici en 1.
+El ciclista 226 quiere tomar en 1.
+El ciclista 226 espera a poder tomar una bici en 1.
+El ciclista 227 quiere tomar en 1.
+El ciclista 227 espera a poder tomar una bici en 1.
+El ciclista 228 quiere tomar en 1.
+El ciclista 228 espera a poder tomar una bici en 1.
+El ciclista 229 quiere tomar en 1.
+El ciclista 229 espera a poder tomar una bici en 1.
+El ciclista 230 quiere tomar en 1.
+El ciclista 230 espera a poder tomar una bici en 1.
+El ciclista 231 quiere tomar en 1.
+El ciclista 231 espera a poder tomar una bici en 1.
+El ciclista 232 quiere tomar en 1.
+El ciclista 232 espera a poder tomar una bici en 1.
+El ciclista 233 quiere tomar en 1.
+El ciclista 233 espera a poder tomar una bici en 1.
+El ciclista 234 quiere tomar en 1.
+El ciclista 234 espera a poder tomar una bici en 1.
+El ciclista 235 quiere tomar en 1.
+El ciclista 235 espera a poder tomar una bici en 1.
+El ciclista 236 quiere tomar en 1.
+El ciclista 236 espera a poder tomar una bici en 1.
+El ciclista 237 quiere tomar en 1.
+El ciclista 237 espera a poder tomar una bici en 1.
+El ciclista 238 quiere tomar en 1.
+El ciclista 238 espera a poder tomar una bici en 1.
+El ciclista 239 quiere tomar en 1.
+El ciclista 239 espera a poder tomar una bici en 1.
+El ciclista 240 quiere tomar en 1.
+El ciclista 240 espera a poder tomar una bici en 1.
+El ciclista 241 quiere tomar en 1.
+El ciclista 241 espera a poder tomar una bici en 1.
+El ciclista 242 quiere tomar en 1.
+El ciclista 242 espera a poder tomar una bici en 1.
+El ciclista 243 quiere tomar en 1.
+El ciclista 243 espera a poder tomar una bici en 1.
+El ciclista 244 quiere tomar en 1.
+El ciclista 244 espera a poder tomar una bici en 1.
+El ciclista 245 quiere tomar en 1.
+El ciclista 245 espera a poder tomar una bici en 1.
+El ciclista 246 quiere tomar en 1.
+El ciclista 246 espera a poder tomar una bici en 1.
+El ciclista 247 quiere tomar en 1.
+El ciclista 247 espera a poder tomar una bici en 1.
+El ciclista 248 quiere tomar en 1.
+El ciclista 248 espera a poder tomar una bici en 1.
+El ciclista 249 quiere tomar en 1.
+El ciclista 249 espera a poder tomar una bici en 1.
+El ciclista 250 quiere tomar en 1.
+El ciclista 250 espera a poder tomar una bici en 1.
+El ciclista 251 quiere tomar en 1.
+El ciclista 251 espera a poder tomar una bici en 1.
+El ciclista 252 quiere tomar en 1.
+El ciclista 252 espera a poder tomar una bici en 1.
+El ciclista 253 quiere tomar en 1.
+El ciclista 253 espera a poder tomar una bici en 1.
+El ciclista 254 quiere tomar en 1.
+El ciclista 254 espera a poder tomar una bici en 1.
+El ciclista 255 quiere tomar en 1.
+El ciclista 255 espera a poder tomar una bici en 1.
+El ciclista 256 quiere tomar en 1.
+El ciclista 256 espera a poder tomar una bici en 1.
+El ciclista 257 quiere tomar en 1.
+El ciclista 257 espera a poder tomar una bici en 1.
+El ciclista 258 quiere tomar en 1.
+El ciclista 258 espera a poder tomar una bici en 1.
+El ciclista 259 quiere tomar en 1.
+El ciclista 259 espera a poder tomar una bici en 1.
+El ciclista 260 quiere tomar en 1.
+El ciclista 260 espera a poder tomar una bici en 1.
+El ciclista 261 quiere tomar en 1.
+El ciclista 261 espera a poder tomar una bici en 1.
+El ciclista 262 quiere tomar en 1.
+El ciclista 262 espera a poder tomar una bici en 1.
+El ciclista 263 quiere tomar en 1.
+El ciclista 263 espera a poder tomar una bici en 1.
+El ciclista 264 quiere tomar en 1.
+El ciclista 264 espera a poder tomar una bici en 1.
+El ciclista 265 quiere tomar en 1.
+El ciclista 265 espera a poder tomar una bici en 1.
+El ciclista 266 quiere tomar en 1.
+El ciclista 266 espera a poder tomar una bici en 1.
+El ciclista 267 quiere tomar en 1.
+El ciclista 267 espera a poder tomar una bici en 1.
+El ciclista 268 quiere tomar en 1.
+El ciclista 268 espera a poder tomar una bici en 1.
+El ciclista 269 quiere tomar en 1.
+El ciclista 269 espera a poder tomar una bici en 1.
+El ciclista 270 quiere tomar en 1.
+El ciclista 270 espera a poder tomar una bici en 1.
+El ciclista 271 quiere tomar en 1.
+El ciclista 271 espera a poder tomar una bici en 1.
+El ciclista 272 quiere tomar en 1.
+El ciclista 272 espera a poder tomar una bici en 1.
+El ciclista 273 quiere tomar en 1.
+El ciclista 273 espera a poder tomar una bici en 1.
+El ciclista 274 quiere tomar en 1.
+El ciclista 274 espera a poder tomar una bici en 1.
+El ciclista 275 quiere tomar en 1.
+El ciclista 275 espera a poder tomar una bici en 1.
+El ciclista 276 quiere tomar en 1.
+El ciclista 276 espera a poder tomar una bici en 1.
+El ciclista 277 quiere tomar en 1.
+El ciclista 277 espera a poder tomar una bici en 1.
+El ciclista 278 quiere tomar en 1.
+El ciclista 278 espera a poder tomar una bici en 1.
+El ciclista 279 quiere tomar en 1.
+El ciclista 279 espera a poder tomar una bici en 1.
+El ciclista 280 quiere tomar en 1.
+El ciclista 280 espera a poder tomar una bici en 1.
+El ciclista 281 quiere tomar en 1.
+El ciclista 281 espera a poder tomar una bici en 1.
+El ciclista 282 quiere tomar en 1.
+El ciclista 282 espera a poder tomar una bici en 1.
+El ciclista 283 quiere tomar en 1.
+El ciclista 283 espera a poder tomar una bici en 1.
+El ciclista 284 quiere tomar en 1.
+El ciclista 284 espera a poder tomar una bici en 1.
+El ciclista 285 quiere tomar en 1.
+El ciclista 285 espera a poder tomar una bici en 1.
+El ciclista 286 quiere tomar en 1.
+El ciclista 286 espera a poder tomar una bici en 1.
+El ciclista 287 quiere tomar en 1.
+El ciclista 287 espera a poder tomar una bici en 1.
+El ciclista 288 quiere tomar en 1.
+El ciclista 288 espera a poder tomar una bici en 1.
+El ciclista 289 quiere tomar en 1.
+El ciclista 289 espera a poder tomar una bici en 1.
+El ciclista 290 quiere tomar en 1.
+El ciclista 290 espera a poder tomar una bici en 1.
+El ciclista 291 quiere tomar en 1.
+El ciclista 291 espera a poder tomar una bici en 1.
+El ciclista 292 quiere tomar en 1.
+El ciclista 292 espera a poder tomar una bici en 1.
+El ciclista 293 quiere tomar en 1.
+El ciclista 293 espera a poder tomar una bici en 1.
+El ciclista 294 quiere tomar en 1.
+El ciclista 294 espera a poder tomar una bici en 1.
+El ciclista 295 quiere tomar en 1.
+El ciclista 295 espera a poder tomar una bici en 1.
+El ciclista 296 quiere tomar en 1.
+El ciclista 296 espera a poder tomar una bici en 1.
+El ciclista 297 quiere tomar en 1.
+El ciclista 297 espera a poder tomar una bici en 1.
+El ciclista 298 quiere tomar en 1.
+El ciclista 298 espera a poder tomar una bici en 1.
+El ciclista 299 quiere tomar en 1.
+El ciclista 299 espera a poder tomar una bici en 1.
+El ciclista 300 quiere tomar en 1.
+El ciclista 300 espera a poder tomar una bici en 1.
+El ciclista 301 quiere tomar en 1.
+El ciclista 301 espera a poder tomar una bici en 1.
+El ciclista 302 quiere tomar en 1.
+El ciclista 302 espera a poder tomar una bici en 1.
+El ciclista 303 quiere tomar en 1.
+El ciclista 303 espera a poder tomar una bici en 1.
+El ciclista 304 quiere tomar en 1.
+El ciclista 304 espera a poder tomar una bici en 1.
+El ciclista 305 quiere tomar en 1.
+El ciclista 305 espera a poder tomar una bici en 1.
+El ciclista 306 quiere tomar en 1.
+El ciclista 306 espera a poder tomar una bici en 1.
+El ciclista 307 quiere tomar en 1.
+El ciclista 307 espera a poder tomar una bici en 1.
+El ciclista 308 quiere tomar en 1.
+El ciclista 308 espera a poder tomar una bici en 1.
+El ciclista 309 quiere tomar en 1.
+El ciclista 309 espera a poder tomar una bici en 1.
+El ciclista 310 quiere tomar en 1.
+El ciclista 310 espera a poder tomar una bici en 1.
+El ciclista 311 quiere tomar en 1.
+El ciclista 311 espera a poder tomar una bici en 1.
+El ciclista 312 quiere tomar en 1.
+El ciclista 312 espera a poder tomar una bici en 1.
+El ciclista 313 quiere tomar en 1.
+El ciclista 313 espera a poder tomar una bici en 1.
+El ciclista 314 quiere tomar en 1.
+El ciclista 314 espera a poder tomar una bici en 1.
+El ciclista 315 quiere tomar en 1.
+El ciclista 315 espera a poder tomar una bici en 1.
+El ciclista 316 quiere tomar en 1.
+El ciclista 316 espera a poder tomar una bici en 1.
+El ciclista 317 quiere tomar en 1.
+El ciclista 317 espera a poder tomar una bici en 1.
+El ciclista 318 quiere tomar en 1.
+El ciclista 318 espera a poder tomar una bici en 1.
+El ciclista 319 quiere tomar en 1.
+El ciclista 319 espera a poder tomar una bici en 1.
+El ciclista 320 quiere tomar en 1.
+El ciclista 320 espera a poder tomar una bici en 1.
+El ciclista 321 quiere tomar en 1.
+El ciclista 321 espera a poder tomar una bici en 1.
+El ciclista 322 quiere tomar en 1.
+El ciclista 322 espera a poder tomar una bici en 1.
+El ciclista 323 quiere tomar en 1.
+El ciclista 323 espera a poder tomar una bici en 1.
+El ciclista 324 quiere tomar en 1.
+El ciclista 324 espera a poder tomar una bici en 1.
+El ciclista 325 quiere tomar en 1.
+El ciclista 325 espera a poder tomar una bici en 1.
+El ciclista 326 quiere tomar en 1.
+El ciclista 326 espera a poder tomar una bici en 1.
+El ciclista 327 quiere tomar en 1.
+El ciclista 327 espera a poder tomar una bici en 1.
+El ciclista 328 quiere tomar en 1.
+El ciclista 328 espera a poder tomar una bici en 1.
+El ciclista 329 quiere tomar en 1.
+El ciclista 329 espera a poder tomar una bici en 1.
+El ciclista 330 quiere tomar en 1.
+El ciclista 330 espera a poder tomar una bici en 1.
+El ciclista 331 quiere tomar en 1.
+El ciclista 331 espera a poder tomar una bici en 1.
+El ciclista 332 quiere tomar en 1.
+El ciclista 332 espera a poder tomar una bici en 1.
+El ciclista 333 quiere tomar en 1.
+El ciclista 333 espera a poder tomar una bici en 1.
+El ciclista 334 quiere tomar en 1.
+El ciclista 334 espera a poder tomar una bici en 1.
+El ciclista 335 quiere tomar en 1.
+El ciclista 335 espera a poder tomar una bici en 1.
+El ciclista 336 quiere tomar en 1.
+El ciclista 336 espera a poder tomar una bici en 1.
+El ciclista 337 quiere tomar en 1.
+El ciclista 337 espera a poder tomar una bici en 1.
+El ciclista 338 quiere tomar en 1.
+El ciclista 338 espera a poder tomar una bici en 1.
+El ciclista 339 quiere tomar en 1.
+El ciclista 339 espera a poder tomar una bici en 1.
+El ciclista 340 quiere tomar en 1.
+El ciclista 340 espera a poder tomar una bici en 1.
+El ciclista 341 quiere tomar en 1.
+El ciclista 341 espera a poder tomar una bici en 1.
+El ciclista 342 quiere tomar en 1.
+El ciclista 342 espera a poder tomar una bici en 1.
+El ciclista 343 quiere tomar en 1.
+El ciclista 343 espera a poder tomar una bici en 1.
+El ciclista 344 quiere tomar en 1.
+El ciclista 344 espera a poder tomar una bici en 1.
+El ciclista 345 quiere tomar en 1.
+El ciclista 345 espera a poder tomar una bici en 1.
+El ciclista 346 quiere tomar en 1.
+El ciclista 346 espera a poder tomar una bici en 1.
+El ciclista 347 quiere tomar en 1.
+El ciclista 347 espera a poder tomar una bici en 1.
+El ciclista 348 quiere tomar en 1.
+El ciclista 348 espera a poder tomar una bici en 1.
+El ciclista 349 quiere tomar en 1.
+El ciclista 349 espera a poder tomar una bici en 1.
+El ciclista 350 quiere tomar en 1.
+El ciclista 350 espera a poder tomar una bici en 1.
+El ciclista 351 quiere tomar en 1.
+El ciclista 351 espera a poder tomar una bici en 1.
+El ciclista 352 quiere tomar en 1.
+El ciclista 352 espera a poder tomar una bici en 1.
+El ciclista 353 quiere tomar en 1.
+El ciclista 353 espera a poder tomar una bici en 1.
+El ciclista 354 quiere tomar en 1.
+El ciclista 354 espera a poder tomar una bici en 1.
+El ciclista 355 quiere tomar en 1.
+El ciclista 355 espera a poder tomar una bici en 1.
+El ciclista 356 quiere tomar en 1.
+El ciclista 356 espera a poder tomar una bici en 1.
+El ciclista 357 quiere tomar en 1.
+El ciclista 357 espera a poder tomar una bici en 1.
+El ciclista 358 quiere tomar en 1.
+El ciclista 358 espera a poder tomar una bici en 1.
+El ciclista 359 quiere tomar en 1.
+El ciclista 359 espera a poder tomar una bici en 1.
+El ciclista 360 quiere tomar en 1.
+El ciclista 360 espera a poder tomar una bici en 1.
+El ciclista 361 quiere tomar en 1.
+El ciclista 361 espera a poder tomar una bici en 1.
+El ciclista 362 quiere tomar en 1.
+El ciclista 362 espera a poder tomar una bici en 1.
+El ciclista 363 quiere tomar en 1.
+El ciclista 363 espera a poder tomar una bici en 1.
+El ciclista 364 quiere tomar en 1.
+El ciclista 364 espera a poder tomar una bici en 1.
+El ciclista 365 quiere tomar en 1.
+El ciclista 365 espera a poder tomar una bici en 1.
+El ciclista 366 quiere tomar en 1.
+El ciclista 366 espera a poder tomar una bici en 1.
+El ciclista 367 quiere tomar en 1.
+El ciclista 367 espera a poder tomar una bici en 1.
+El ciclista 368 quiere tomar en 1.
+El ciclista 368 espera a poder tomar una bici en 1.
+El ciclista 369 quiere tomar en 1.
+El ciclista 369 espera a poder tomar una bici en 1.
+El ciclista 370 quiere tomar en 1.
+El ciclista 370 espera a poder tomar una bici en 1.
+El ciclista 371 quiere tomar en 1.
+El ciclista 371 espera a poder tomar una bici en 1.
+El ciclista 372 quiere tomar en 1.
+El ciclista 372 espera a poder tomar una bici en 1.
+El ciclista 373 quiere tomar en 1.
+El ciclista 373 espera a poder tomar una bici en 1.
+El ciclista 374 quiere tomar en 1.
+El ciclista 374 espera a poder tomar una bici en 1.
+El ciclista 375 quiere tomar en 1.
+El ciclista 375 espera a poder tomar una bici en 1.
+El ciclista 376 quiere tomar en 1.
+El ciclista 376 espera a poder tomar una bici en 1.
+El ciclista 377 quiere tomar en 1.
+El ciclista 377 espera a poder tomar una bici en 1.
+El ciclista 378 quiere tomar en 1.
+El ciclista 378 espera a poder tomar una bici en 1.
+El ciclista 379 quiere tomar en 1.
+El ciclista 379 espera a poder tomar una bici en 1.
+El ciclista 380 quiere tomar en 1.
+El ciclista 380 espera a poder tomar una bici en 1.
+El ciclista 381 quiere tomar en 1.
+El ciclista 381 espera a poder tomar una bici en 1.
+El ciclista 382 quiere tomar en 1.
+El ciclista 382 espera a poder tomar una bici en 1.
+El ciclista 383 quiere tomar en 1.
+El ciclista 383 espera a poder tomar una bici en 1.
+El ciclista 384 quiere tomar en 1.
+El ciclista 384 espera a poder tomar una bici en 1.
+El ciclista 385 quiere tomar en 1.
+El ciclista 385 espera a poder tomar una bici en 1.
+El ciclista 386 quiere tomar en 1.
+El ciclista 386 espera a poder tomar una bici en 1.
+El ciclista 387 quiere tomar en 1.
+El ciclista 387 espera a poder tomar una bici en 1.
+El ciclista 388 quiere tomar en 1.
+El ciclista 388 espera a poder tomar una bici en 1.
+El ciclista 389 quiere tomar en 1.
+El ciclista 389 espera a poder tomar una bici en 1.
+El ciclista 390 quiere tomar en 1.
+El ciclista 390 espera a poder tomar una bici en 1.
+El ciclista 391 quiere tomar en 1.
+El ciclista 391 espera a poder tomar una bici en 1.
+El ciclista 392 quiere tomar en 1.
+El ciclista 392 espera a poder tomar una bici en 1.
+El ciclista 393 quiere tomar en 1.
+El ciclista 393 espera a poder tomar una bici en 1.
+El ciclista 394 quiere tomar en 1.
+El ciclista 394 espera a poder tomar una bici en 1.
+El ciclista 395 quiere tomar en 1.
+El ciclista 395 espera a poder tomar una bici en 1.
+El ciclista 396 quiere tomar en 1.
+El ciclista 396 espera a poder tomar una bici en 1.
+El ciclista 397 quiere tomar en 1.
+El ciclista 397 espera a poder tomar una bici en 1.
+El ciclista 398 quiere tomar en 1.
+El ciclista 398 espera a poder tomar una bici en 1.
+El ciclista 399 quiere tomar en 1.
+El ciclista 399 espera a poder tomar una bici en 1.
+El ciclista 399 toma una bici en 3.
+El ciclista 399 esta montando...
+El ciclista 399 quiere dejar una bici en 8.
+El ciclista 399 quiere dejar una bici en 8.
+El ciclista 399 deja una bici en 8.
+El ciclista 16 espera a poder tomar una bici en 1.
+El ciclista 16 toma una bici en 3.
+El ciclista 16 esta montando...
+El ciclista 16 quiere dejar una bici en 8.
+El ciclista 16 quiere dejar una bici en 8.
+El ciclista 16 deja una bici en 8.
+El ciclista 8 deja una bici en 8.
+El ciclista 17 espera a poder tomar una bici en 1.
+El ciclista 8 quiere tomar en 6.
+El ciclista 8 toma una bici en 6.
+El ciclista 8 esta montando...
+El ciclista 8 quiere dejar una bici en 10.
+El ciclista 8 quiere dejar una bici en 10.
+El ciclista 8 deja una bici en 9.
+El ciclista 8 quiere tomar en 3.
+El ciclista 8 toma una bici en 3.
+El ciclista 8 esta montando...
+El ciclista 8 quiere dejar una bici en 7.
+El ciclista 8 quiere dejar una bici en 7.
+El ciclista 8 deja una bici en 7.
+El ciclista 8 quiere tomar en 4.
+El ciclista 8 toma una bici en 4.
+El ciclista 8 esta montando...
+El ciclista 8 quiere dejar una bici en 5.
+El ciclista 8 quiere dejar una bici en 5.
+El ciclista 8 deja una bici en 5.
+El ciclista 18 espera a poder tomar una bici en 1.
+El ciclista 18 toma una bici en 3.
+El ciclista 18 esta montando...
+El ciclista 18 quiere dejar una bici en 8.
+El ciclista 18 quiere dejar una bici en 8.
+El ciclista 18 deja una bici en 8.
+El ciclista 18 quiere tomar en 6.
+El ciclista 18 toma una bici en 6.
+El ciclista 18 esta montando...
+El ciclista 18 quiere dejar una bici en 10.
+El ciclista 18 quiere dejar una bici en 10.
+El ciclista 18 deja una bici en 9.
+El ciclista 19 espera a poder tomar una bici en 1.
+El ciclista 19 toma una bici en 3.
+El ciclista 19 esta montando...
+El ciclista 19 quiere dejar una bici en 8.
+El ciclista 19 quiere dejar una bici en 8.
+El ciclista 19 deja una bici en 8.
+El ciclista 19 quiere tomar en 6.
+El ciclista 19 toma una bici en 6.
+El ciclista 19 esta montando...
+El ciclista 19 quiere dejar una bici en 10.
+El ciclista 19 quiere dejar una bici en 10.
+El ciclista 19 deja una bici en 9.
+El ciclista 19 quiere tomar en 3.
+El ciclista 19 toma una bici en 3.
+El ciclista 19 esta montando...
+El ciclista 19 quiere dejar una bici en 7.
+El ciclista 19 quiere dejar una bici en 7.
+El ciclista 19 deja una bici en 7.
+El ciclista 20 espera a poder tomar una bici en 1.
+El ciclista 20 toma una bici en 3.
+El ciclista 20 esta montando...
+El ciclista 20 quiere dejar una bici en 8.
+El ciclista 20 quiere dejar una bici en 8.
+El ciclista 20 deja una bici en 8.
+El ciclista 21 espera a poder tomar una bici en 1.
+El ciclista 21 toma una bici en 3.
+El ciclista 21 esta montando...
+El ciclista 21 quiere dejar una bici en 8.
+El ciclista 21 quiere dejar una bici en 8.
+El ciclista 21 deja una bici en 8.
+El ciclista 21 quiere tomar en 6.
+El ciclista 21 toma una bici en 6.
+El ciclista 21 esta montando...
+El ciclista 21 quiere dejar una bici en 10.
+El ciclista 21 quiere dejar una bici en 10.
+El ciclista 21 deja una bici en 9.
+El ciclista 21 quiere tomar en 3.
+El ciclista 21 toma una bici en 3.
+El ciclista 21 esta montando...
+El ciclista 21 quiere dejar una bici en 7.
+El ciclista 21 quiere dejar una bici en 7.
+El ciclista 21 deja una bici en 7.
+El ciclista 22 espera a poder tomar una bici en 1.
+El ciclista 22 toma una bici en 3.
+El ciclista 22 esta montando...
+El ciclista 22 quiere dejar una bici en 8.
+El ciclista 22 quiere dejar una bici en 8.
+El ciclista 22 deja una bici en 8.
+El ciclista 22 quiere tomar en 6.
+El ciclista 22 toma una bici en 6.
+El ciclista 22 esta montando...
+El ciclista 22 quiere dejar una bici en 10.
+El ciclista 22 quiere dejar una bici en 10.
+El ciclista 22 deja una bici en 9.
+El ciclista 22 quiere tomar en 3.
+El ciclista 22 toma una bici en 3.
+El ciclista 22 esta montando...
+El ciclista 22 quiere dejar una bici en 7.
+El ciclista 22 quiere dejar una bici en 7.
+El ciclista 22 deja una bici en 7.
+El ciclista 23 espera a poder tomar una bici en 1.
+El ciclista 23 toma una bici en 3.
+El ciclista 23 esta montando...
+El ciclista 23 quiere dejar una bici en 8.
+El ciclista 23 quiere dejar una bici en 8.
+El ciclista 23 deja una bici en 8.
+El ciclista 23 quiere tomar en 6.
+El ciclista 23 toma una bici en 6.
+El ciclista 23 esta montando...
+El ciclista 23 quiere dejar una bici en 10.
+El ciclista 23 quiere dejar una bici en 10.
+El ciclista 23 deja una bici en 9.
+El ciclista 23 quiere tomar en 3.
+El ciclista 23 toma una bici en 3.
+El ciclista 23 esta montando...
+El ciclista 23 quiere dejar una bici en 7.
+El ciclista 23 quiere dejar una bici en 7.
+El ciclista 23 deja una bici en 7.
+El ciclista 23 quiere tomar en 4.
+El ciclista 23 toma una bici en 4.
+El ciclista 23 esta montando...
+El ciclista 23 quiere dejar una bici en 5.
+El ciclista 23 quiere dejar una bici en 5.
+El ciclista 23 deja una bici en 5.
+El ciclista 24 espera a poder tomar una bici en 1.
+El ciclista 24 toma una bici en 3.
+El ciclista 24 esta montando...
+El ciclista 24 quiere dejar una bici en 8.
+El ciclista 24 quiere dejar una bici en 8.
+El ciclista 24 deja una bici en 8.
+El ciclista 24 quiere tomar en 6.
+El ciclista 24 toma una bici en 6.
+El ciclista 24 esta montando...
+El ciclista 24 quiere dejar una bici en 10.
+El ciclista 24 quiere dejar una bici en 10.
+El ciclista 24 deja una bici en 3.
+El ciclista 7 deja una bici en 8.
+El ciclista 25 espera a poder tomar una bici en 1.
+El ciclista 7 quiere tomar en 6.
+El ciclista 7 toma una bici en 6.
+El ciclista 7 esta montando...
+El ciclista 7 quiere dejar una bici en 10.
+El ciclista 7 quiere dejar una bici en 10.
+El ciclista 7 deja una bici en 3.
+El ciclista 7 quiere tomar en 11.
+El ciclista 7 toma una bici en 11.
+El ciclista 7 esta montando...
+El ciclista 5 deja una bici en 11.
+El ciclista 7 quiere dejar una bici en 4.
+El ciclista 7 quiere dejar una bici en 4.
+El ciclista 7 deja una bici en 4.
+El ciclista 5 quiere tomar en 10.
+El ciclista 5 toma una bici en 10.
+El ciclista 5 esta montando...
+El ciclista 9 deja una bici en 10.
+El ciclista 7 quiere tomar en 1.
+El ciclista 7 espera a poder tomar una bici en 1.
+El ciclista 5 quiere dejar una bici en 11.
+El ciclista 5 quiere dejar una bici en 11.
+El ciclista 9 quiere tomar en 8.
+El ciclista 9 toma una bici en 8.
+El ciclista 9 esta montando...
+El ciclista 9 quiere dejar una bici en 11.
+El ciclista 9 quiere dejar una bici en 11.
+El ciclista 9 deja una bici en 3.
+El ciclista 26 espera a poder tomar una bici en 1.
+El ciclista 26 toma una bici en 3.
+El ciclista 26 esta montando...
+El ciclista 26 quiere dejar una bici en 8.
+El ciclista 26 quiere dejar una bici en 8.
+El ciclista 26 deja una bici en 8.
+El ciclista 26 quiere tomar en 6.
+El ciclista 26 toma una bici en 6.
+El ciclista 26 esta montando...
+El ciclista 26 quiere dejar una bici en 10.
+El ciclista 26 quiere dejar una bici en 10.
+El ciclista 26 deja una bici en 3.
+El ciclista 26 quiere tomar en 11.
+El ciclista 26 toma una bici en 11.
+El ciclista 26 esta montando...
+El ciclista 4 deja una bici en 11.
+El ciclista 26 quiere dejar una bici en 4.
+El ciclista 26 quiere dejar una bici en 4.
+El ciclista 26 deja una bici en 4.
+El ciclista 4 quiere tomar en 9.
+El ciclista 4 toma una bici en 9.
+El ciclista 4 esta montando...
+El ciclista 26 quiere tomar en 1.
+El ciclista 26 espera a poder tomar una bici en 1.
+El ciclista 4 quiere dejar una bici en 1.
+El ciclista 4 quiere dejar una bici en 1.
+El ciclista 4 deja una bici en 1.
+El ciclista 27 toma una bici en 1.
+El ciclista 27 esta montando...
+El ciclista 28 espera a poder tomar una bici en 1.
+El ciclista 27 quiere dejar una bici en 10.
+El ciclista 27 quiere dejar una bici en 10.
+El ciclista 27 deja una bici en 6.
+El ciclista 27 quiere tomar en 5.
+El ciclista 27 toma una bici en 5.
+El ciclista 27 esta montando...
+El ciclista 27 quiere dejar una bici en 9.
+El ciclista 27 quiere dejar una bici en 9.
+El ciclista 27 deja una bici en 9.
+El ciclista 27 quiere tomar en 3.
+El ciclista 27 toma una bici en 3.
+El ciclista 27 esta montando...
+El ciclista 27 quiere dejar una bici en 7.
+El ciclista 27 quiere dejar una bici en 7.
+El ciclista 27 deja una bici en 4.
+El ciclista 12 deja una bici en 6.
+El ciclista 29 espera a poder tomar una bici en 1.
+El ciclista 12 quiere tomar en 5.
+El ciclista 12 toma una bici en 5.
+El ciclista 12 esta montando...
+El ciclista 12 quiere dejar una bici en 9.
+El ciclista 12 quiere dejar una bici en 9.
+El ciclista 12 deja una bici en 3.
+El ciclista 12 quiere tomar en 11.
+El ciclista 12 toma una bici en 11.
+El ciclista 12 esta montando...
+El ciclista 5 deja una bici en 11.
+El ciclista 12 quiere dejar una bici en 4.
+El ciclista 12 quiere dejar una bici en 4.
+El ciclista 12 deja una bici en 4.
+El ciclista 12 quiere tomar en 1.
+El ciclista 12 espera a poder tomar una bici en 1.
+El ciclista 12 toma una bici en 5.
+El ciclista 12 esta montando...
+El ciclista 12 quiere dejar una bici en 2.
+El ciclista 12 quiere dejar una bici en 2.
+El ciclista 12 deja una bici en 2.
+El ciclista 13 deja una bici en 6.
+El ciclista 30 espera a poder tomar una bici en 1.
+El ciclista 13 quiere tomar en 5.
+El ciclista 13 toma una bici en 5.
+El ciclista 13 esta montando...
+El ciclista 13 quiere dejar una bici en 9.
+El ciclista 13 quiere dejar una bici en 9.
+El ciclista 13 deja una bici en 3.
+El ciclista 31 espera a poder tomar una bici en 1.
+El ciclista 31 toma una bici en 3.
+El ciclista 31 esta montando...
+El ciclista 31 quiere dejar una bici en 8.
+El ciclista 31 quiere dejar una bici en 8.
+El ciclista 31 deja una bici en 6.
+El ciclista 31 quiere tomar en 5.
+El ciclista 31 toma una bici en 5.
+El ciclista 31 esta montando...
+El ciclista 31 quiere dejar una bici en 9.
+El ciclista 31 quiere dejar una bici en 9.
+El ciclista 31 deja una bici en 3.
+El ciclista 31 quiere tomar en 11.
+El ciclista 31 toma una bici en 11.
+El ciclista 31 esta montando...
+El ciclista 6 deja una bici en 11.
+El ciclista 31 quiere dejar una bici en 4.
+El ciclista 31 quiere dejar una bici en 4.
+El ciclista 31 deja una bici en 4.
+El ciclista 31 quiere tomar en 1.
+El ciclista 31 espera a poder tomar una bici en 1.
+El ciclista 31 toma una bici en 5.
+El ciclista 31 esta montando...
+El ciclista 31 quiere dejar una bici en 2.
+El ciclista 31 quiere dejar una bici en 2.
+El ciclista 31 deja una bici en 2.
+El ciclista 15 deja una bici en 6.
+El ciclista 32 espera a poder tomar una bici en 1.
+El ciclista 15 quiere tomar en 5.
+El ciclista 15 toma una bici en 5.
+El ciclista 15 esta montando...
+El ciclista 15 quiere dejar una bici en 9.
+El ciclista 15 quiere dejar una bici en 9.
+El ciclista 15 deja una bici en 3.
+El ciclista 33 espera a poder tomar una bici en 1.
+El ciclista 33 toma una bici en 3.
+El ciclista 33 esta montando...
+El ciclista 33 quiere dejar una bici en 8.
+El ciclista 33 quiere dejar una bici en 8.
+El ciclista 33 deja una bici en 6.
+El ciclista 33 quiere tomar en 5.
+El ciclista 33 toma una bici en 5.
+El ciclista 33 esta montando...
+El ciclista 33 quiere dejar una bici en 9.
+El ciclista 33 quiere dejar una bici en 9.
+El ciclista 33 deja una bici en 3.
+El ciclista 34 espera a poder tomar una bici en 1.
+El ciclista 34 toma una bici en 3.
+El ciclista 34 esta montando...
+El ciclista 34 quiere dejar una bici en 8.
+El ciclista 34 quiere dejar una bici en 8.
+El ciclista 34 deja una bici en 6.
+El ciclista 34 quiere tomar en 5.
+El ciclista 34 toma una bici en 5.
+El ciclista 34 esta montando...
+El ciclista 34 quiere dejar una bici en 9.
+El ciclista 34 quiere dejar una bici en 9.
+El ciclista 34 deja una bici en 3.
+El ciclista 34 quiere tomar en 11.
+El ciclista 34 toma una bici en 11.
+El ciclista 34 esta montando...
+El ciclista 34 quiere dejar una bici en 4.
+El ciclista 34 quiere dejar una bici en 4.
+El ciclista 34 deja una bici en 4.
+El ciclista 35 espera a poder tomar una bici en 1.
+El ciclista 35 toma una bici en 3.
+El ciclista 35 esta montando...
+El ciclista 35 quiere dejar una bici en 8.
+El ciclista 35 quiere dejar una bici en 8.
+El ciclista 35 deja una bici en 6.
+El ciclista 35 quiere tomar en 5.
+El ciclista 35 toma una bici en 5.
+El ciclista 35 esta montando...
+El ciclista 35 quiere dejar una bici en 9.
+El ciclista 35 quiere dejar una bici en 9.
+El ciclista 35 deja una bici en 3.
+El ciclista 35 quiere tomar en 11.
+El ciclista 35 toma una bici en 11.
+El ciclista 35 esta montando...
+El ciclista 35 quiere dejar una bici en 4.
+El ciclista 35 quiere dejar una bici en 4.
+El ciclista 35 deja una bici en 4.
+El ciclista 35 quiere tomar en 1.
+El ciclista 35 espera a poder tomar una bici en 1.
+El ciclista 35 toma una bici en 5.
+El ciclista 35 esta montando...
+El ciclista 35 quiere dejar una bici en 2.
+El ciclista 35 quiere dejar una bici en 2.
+El ciclista 35 deja una bici en 2.
+El ciclista 36 espera a poder tomar una bici en 1.
+El ciclista 36 toma una bici en 3.
+El ciclista 36 esta montando...
+El ciclista 36 quiere dejar una bici en 8.
+El ciclista 36 quiere dejar una bici en 8.
+El ciclista 36 deja una bici en 6.
+El ciclista 36 quiere tomar en 5.
+El ciclista 36 toma una bici en 5.
+El ciclista 36 esta montando...
+El ciclista 36 quiere dejar una bici en 9.
+El ciclista 36 quiere dejar una bici en 9.
+El ciclista 36 deja una bici en 3.
+El ciclista 36 quiere tomar en 11.
+El ciclista 36 toma una bici en 11.
+El ciclista 36 esta montando...
+El ciclista 36 quiere dejar una bici en 4.
+El ciclista 36 quiere dejar una bici en 4.
+El ciclista 36 deja una bici en 1.
+El ciclista 38 toma una bici en 1.
+El ciclista 38 esta montando...
+El ciclista 37 espera a poder tomar una bici en 1.
+El ciclista 38 quiere dejar una bici en 10.
+El ciclista 38 quiere dejar una bici en 10.
+El ciclista 38 deja una bici en 6.
+El ciclista 38 quiere tomar en 5.
+El ciclista 38 toma una bici en 5.
+El ciclista 38 esta montando...
+El ciclista 38 quiere dejar una bici en 9.
+El ciclista 38 quiere dejar una bici en 9.
+El ciclista 38 deja una bici en 3.
+El ciclista 14 deja una bici en 6.
+El ciclista 39 espera a poder tomar una bici en 1.
+El ciclista 14 quiere tomar en 5.
+El ciclista 14 toma una bici en 5.
+El ciclista 14 esta montando...
+El ciclista 14 quiere dejar una bici en 9.
+El ciclista 14 quiere dejar una bici en 9.
+El ciclista 14 deja una bici en 3.
+El ciclista 40 espera a poder tomar una bici en 1.
+El ciclista 40 toma una bici en 3.
+El ciclista 40 esta montando...
+El ciclista 40 quiere dejar una bici en 8.
+El ciclista 40 quiere dejar una bici en 8.
+El ciclista 40 deja una bici en 6.
+El ciclista 11 deja una bici en 6.
+El ciclista 41 espera a poder tomar una bici en 1.
+El ciclista 41 toma una bici en 3.
+El ciclista 41 esta montando...
+El ciclista 42 espera a poder tomar una bici en 1.
+El ciclista 41 quiere dejar una bici en 8.
+El ciclista 41 quiere dejar una bici en 8.
+El ciclista 41 deja una bici en 6.
+El ciclista 41 quiere tomar en 5.
+El ciclista 41 toma una bici en 5.
+El ciclista 41 esta montando...
+El ciclista 41 quiere dejar una bici en 9.
+El ciclista 41 quiere dejar una bici en 9.
+El ciclista 41 deja una bici en 3.
+El ciclista 41 quiere tomar en 11.
+El ciclista 41 toma una bici en 11.
+El ciclista 41 esta montando...
+El ciclista 41 quiere dejar una bici en 4.
+El ciclista 41 quiere dejar una bici en 4.
+El ciclista 41 deja una bici en 1.
+El ciclista 43 toma una bici en 1.
+El ciclista 43 esta montando...
+El ciclista 43 quiere dejar una bici en 10.
+El ciclista 43 quiere dejar una bici en 10.
+El ciclista 41 quiere tomar en 2.
+El ciclista 41 toma una bici en 2.
+El ciclista 41 esta montando...
+El ciclista 41 quiere dejar una bici en 2.
+El ciclista 41 quiere dejar una bici en 2.
+El ciclista 41 deja una bici en 2.
+El ciclista 44 espera a poder tomar una bici en 1.
+El ciclista 44 toma una bici en 3.
+El ciclista 44 esta montando...
+El ciclista 44 quiere dejar una bici en 8.
+El ciclista 44 quiere dejar una bici en 8.
+El ciclista 44 deja una bici en 5.
+El ciclista 44 quiere tomar en 11.
+El ciclista 44 toma una bici en 11.
+El ciclista 44 esta montando...
+El ciclista 44 quiere dejar una bici en 3.
+El ciclista 44 quiere dejar una bici en 3.
+El ciclista 44 deja una bici en 3.
+El ciclista 44 quiere tomar en 11.
+El ciclista 44 toma una bici en 11.
+El ciclista 44 esta montando...
+El ciclista 44 quiere dejar una bici en 4.
+El ciclista 44 quiere dejar una bici en 4.
+El ciclista 44 deja una bici en 1.
+El ciclista 46 toma una bici en 1.
+El ciclista 46 esta montando...
+El ciclista 45 espera a poder tomar una bici en 1.
+El ciclista 46 quiere dejar una bici en 10.
+El ciclista 46 quiere dejar una bici en 10.
+El ciclista 46 deja una bici en 5.
+El ciclista 46 quiere tomar en 11.
+El ciclista 46 toma una bici en 11.
+El ciclista 46 esta montando...
+El ciclista 46 quiere dejar una bici en 3.
+El ciclista 46 quiere dejar una bici en 3.
+El ciclista 46 deja una bici en 3.
+El ciclista 46 quiere tomar en 11.
+El ciclista 46 toma una bici en 11.
+El ciclista 46 esta montando...
+El ciclista 46 quiere dejar una bici en 4.
+El ciclista 46 quiere dejar una bici en 4.
+El ciclista 46 deja una bici en 1.
+El ciclista 47 toma una bici en 1.
+El ciclista 47 esta montando...
+El ciclista 47 quiere dejar una bici en 10.
+El ciclista 47 quiere dejar una bici en 10.
+El ciclista 46 quiere tomar en 2.
+El ciclista 46 toma una bici en 2.
+El ciclista 46 esta montando...
+El ciclista 46 quiere dejar una bici en 2.
+El ciclista 46 quiere dejar una bici en 2.
+El ciclista 46 deja una bici en 2.
+El ciclista 10 deja una bici en 5.
+El ciclista 48 espera a poder tomar una bici en 1.
+El ciclista 10 quiere tomar en 11.
+El ciclista 10 toma una bici en 11.
+El ciclista 10 esta montando...
+El ciclista 10 quiere dejar una bici en 3.
+El ciclista 10 quiere dejar una bici en 3.
+El ciclista 10 deja una bici en 3.
+El ciclista 10 quiere tomar en 11.
+El ciclista 10 toma una bici en 11.
+El ciclista 10 esta montando...
+El ciclista 10 quiere dejar una bici en 4.
+El ciclista 10 quiere dejar una bici en 4.
+El ciclista 10 deja una bici en 1.
+El ciclista 49 toma una bici en 1.
+El ciclista 49 esta montando...
+El ciclista 49 quiere dejar una bici en 10.
+El ciclista 49 quiere dejar una bici en 10.
+El ciclista 10 quiere tomar en 2.
+El ciclista 10 toma una bici en 2.
+El ciclista 10 esta montando...
+El ciclista 10 quiere dejar una bici en 2.
+El ciclista 10 quiere dejar una bici en 2.
+El ciclista 10 deja una bici en 2.
+El ciclista 43 deja una bici en 5.
+El ciclista 50 espera a poder tomar una bici en 1.
+El ciclista 43 quiere tomar en 11.
+El ciclista 43 toma una bici en 11.
+El ciclista 43 esta montando...
+El ciclista 43 quiere dejar una bici en 3.
+El ciclista 43 quiere dejar una bici en 3.
+El ciclista 43 deja una bici en 3.
+El ciclista 43 quiere tomar en 11.
+El ciclista 43 toma una bici en 11.
+El ciclista 43 esta montando...
+El ciclista 43 quiere dejar una bici en 4.
+El ciclista 43 quiere dejar una bici en 4.
+El ciclista 43 deja una bici en 1.
+El ciclista 51 toma una bici en 1.
+El ciclista 51 esta montando...
+El ciclista 51 quiere dejar una bici en 10.
+El ciclista 51 quiere dejar una bici en 10.
+El ciclista 43 quiere tomar en 2.
+El ciclista 43 toma una bici en 2.
+El ciclista 43 esta montando...
+El ciclista 43 quiere dejar una bici 
